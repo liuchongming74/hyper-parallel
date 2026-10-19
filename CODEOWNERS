@@ -15,7 +15,7 @@
 
 
 # The maintainers of hyper_parallel/collectives.
-/hyper_parallel/collectives/ @changzherui1 @changzherui
+/hyper_parallel/collectives/ @yangzhenzhang02
 
 
 # The maintainers of hyper_parallel/core.
@@ -42,13 +42,13 @@
 /tests/torch/distributed_checkpoint/ @zhangbuxue @xiaoyuxing-010818
 /tests/torch/fully_shard/ @mxysfive
 /tests/torch/pipeline_parallel/ @lichen666
-/tests/torch/process_group/ @changzherui1 @changzherui
+/tests/torch/process_group/ @yangzhenzhang02
 /tests/torch/shard/ @yangzhenzhang02
 
 
 # The maintainers of other code directories.
 /.jenkins/ @yangzhenzhang02
-/docs/ @yangzhenzhang02 @gemini524
+/docs/ @yangzhenzhang02
 /requirements.txt  @yangzhenzhang02
 /setup.py  @yangzhenzhang02
 
@@ -66,6 +66,6 @@
 /tests/common/rl_st_cases.py @liuchongming74 @bj-wang
 
 # Hyper-RL documentation and development rules.
-/docs/rl-*.md @yangzhenzhang02 @gemini524 @bj-wang
+/docs/rl-*.md @yangzhenzhang02 @bj-wang
 /.agent/rules/hyper-rl.md @yangzhenzhang02 @suteng @yaoyifanx @bj-wang
 /.agent/rules/rl/ @yangzhenzhang02 @suteng @yaoyifanx @bj-wang
